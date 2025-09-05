@@ -1,1 +1,5 @@
 
+AppData/
+ntuser.*
+*.tmp
+Thumbs.db
